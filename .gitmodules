@@ -1,0 +1,3 @@
+[submodule "FractalJS"]
+	path = FractalJS
+	url = https://github.com/janhartigan/FractalJS.git
